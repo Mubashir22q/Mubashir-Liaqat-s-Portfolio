@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/css/main.0c181403.css",
-    "main.js": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/js/main.3a5774a7.js",
-    "static/media/Mubashir Liaqat.png": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/Mubashir Liaqat.28639fc1e8e645de427d.png",
-    "static/media/Mubashir_CV_Official.pdf": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/Mubashir_CV_Official.b2156e87ecba5c3bb53a.pdf",
-    "static/media/portfolio5.png": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/Me.png": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/Me.a4f82fe929528336d581.png",
-    "static/media/portfolio2.jpg": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/index.html",
-    "main.0c181403.css.map": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/css/main.0c181403.css.map",
-    "main.3a5774a7.js.map": "/Mubashir22q/Mubashir-Liaqat-s-Portfolio.git/static/js/main.3a5774a7.js.map"
+    "main.css": "/Mubashir22q/Finaly-Portfolio-React.git/static/css/main.0c181403.css",
+    "main.js": "/Mubashir22q/Finaly-Portfolio-React.git/static/js/main.bfd650fa.js",
+    "static/media/Mubashir Liaqat.png": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/Mubashir Liaqat.28639fc1e8e645de427d.png",
+    "static/media/Mubashir_CV_Official.pdf": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/Mubashir_CV_Official.b2156e87ecba5c3bb53a.pdf",
+    "static/media/portfolio5.png": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Me.png": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/Me.a4f82fe929528336d581.png",
+    "static/media/portfolio2.jpg": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Mubashir22q/Finaly-Portfolio-React.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Mubashir22q/Finaly-Portfolio-React.git/index.html",
+    "main.0c181403.css.map": "/Mubashir22q/Finaly-Portfolio-React.git/static/css/main.0c181403.css.map",
+    "main.bfd650fa.js.map": "/Mubashir22q/Finaly-Portfolio-React.git/static/js/main.bfd650fa.js.map"
   },
   "entrypoints": [
     "static/css/main.0c181403.css",
-    "static/js/main.3a5774a7.js"
+    "static/js/main.bfd650fa.js"
   ]
 }
